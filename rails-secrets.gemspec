@@ -21,5 +21,5 @@ Gem::Specification.new do |gem|
   gem.required_ruby_version     = '>= 1.9.3'
   gem.required_rubygems_version = '>= 1.8.11'
 
-  gem.add_runtime_dependency 'rails', ['>= 4.0.0', '<= 4.1.0']
+  gem.add_runtime_dependency 'rails', ['>= 3.2.0', '<= 4.1.0']
 end
